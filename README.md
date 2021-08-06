@@ -1,5 +1,5 @@
 # Linear-Regression-with-Single-Variable
-Linear Regression with Single Variable
+Linear Regression with Single Variable - Machine Learning
 
 ![Capture](https://user-images.githubusercontent.com/49120359/128552083-63a3b675-74dc-4b2d-b5b6-b91bdecbaca8.PNG)
 
